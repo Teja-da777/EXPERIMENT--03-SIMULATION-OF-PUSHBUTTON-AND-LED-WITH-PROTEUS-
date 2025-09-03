@@ -72,8 +72,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 
-# Developed by : M THEJESWARAN
-# Register Number : 212223240168
+## Developed by : M THEJESWARAN
+## Register Number : 212223240168
 
 ```
 #include "main.h"
